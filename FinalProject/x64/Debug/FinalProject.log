@@ -1,0 +1,12 @@
+﻿  Shipment.c
+C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\Shipment.c(28,9): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\Shipment.c(95,27): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\Shipment.c(95,54): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\Shipment.c(143,43): warning C4047: 'function': 'Route **' differs in levels of indirection from 'Route (*)[132]'
+C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\Shipment.c(143,43): warning C4024: 'getAllTruckPaths': different types for formal and actual parameter 4
+C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\Shipment.c(147,43): warning C4047: 'function': 'Route **' differs in levels of indirection from 'Route (*)[132]'
+C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\Shipment.c(147,43): warning C4024: 'getAllTruckPaths': different types for formal and actual parameter 4
+C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\Shipment.c(151,43): warning C4047: 'function': 'Route **' differs in levels of indirection from 'Route (*)[132]'
+C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\Shipment.c(151,43): warning C4024: 'getAllTruckPaths': different types for formal and actual parameter 4
+C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\Shipment.c(277,98): warning C4028: formal parameter 4 different from declaration
+  FinalProject.vcxproj -> C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\x64\Debug\FinalProject.exe
