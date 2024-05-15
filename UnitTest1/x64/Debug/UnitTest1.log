@@ -1,0 +1,8 @@
+﻿     Creating library C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\x64\Debug\UnitTest1.lib and object C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\x64\Debug\UnitTest1.exp
+Shipment.obj : error LNK2019: unresolved external symbol populateMap referenced in function getAllTruckPaths
+Shipment.obj : error LNK2019: unresolved external symbol getBlueRoute referenced in function AssignTruck
+Shipment.obj : error LNK2019: unresolved external symbol getGreenRoute referenced in function AssignTruck
+Shipment.obj : error LNK2019: unresolved external symbol getYellowRoute referenced in function AssignTruck
+Shipment.obj : error LNK2019: unresolved external symbol distance referenced in function getAllTruckPaths
+Shipment.obj : error LNK2019: unresolved external symbol shortestPath referenced in function getAllTruckPaths
+C:\Users\manav\OneDrive\Desktop\SENECA CPA\Sem 2\SFT221\Project\FinalProject\x64\Debug\UnitTest1.dll : fatal error LNK1120: 6 unresolved externals
